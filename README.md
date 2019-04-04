@@ -11,4 +11,4 @@ Coursera上吴恩达老师的机器学习笔记和代码,包括matlab和py代码
 
  ![image](https://raw.githubusercontent.com/xiesp/Coursera-ML-AndrewNg-Notes-And-Exercises/master/imgs/demo2.png)
 
- ![image](https://raw.githubusercontent.com/xiesp/Coursera-ML-AndrewNg-Notes-And-Exercises/master/imgs/demo2.png)
+ ![image](https://raw.githubusercontent.com/xiesp/Coursera-ML-AndrewNg-Notes-And-Exercises/master/imgs/demo3.png)
